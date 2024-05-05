@@ -1,2 +1,2 @@
 # MLP_3
-手工搭建三层神经网络
+Handcrafting a three-layer neural network MLP.
